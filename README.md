@@ -52,6 +52,5 @@ Further mentions of the buttons will talk about their Horizontal positioning.
     if you press the button in that time, and the delay ends it will then register and go on the next level.
 
 ## *Ongoing Bugs:*
-1.  If you hold the middle button you can sometimes have it skip a level, although you will lose on the second level after that.
-2.  Sometimes the LaFortuna won't register a fast click. (Try holding it for a bit after pressing, there is a 1250ms delay after each press
-    so it will be safe to hold for a bit)
+*  Sometimes the LaFortuna won't register a fast click. (Try holding it for a bit after pressing, there is a 1250ms delay after each press
+   so it will be safe to hold for a bit)
